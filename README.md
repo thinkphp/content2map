@@ -1,6 +1,7 @@
 # Extract locations from text and Map
 
-(content2map) (https://github.com/thinkphp/content2map/blob/master/Screenshot%20from%202025-02-07%2011-42-12.png?raw=true)
+[content2map](https://github.com/thinkphp/content2map/blob/master/Screenshot%20from%202025-02-07%2011-42-12.png?raw=true)
+
 To set up and run this application:
 
 1. Set up the Flask backend:
