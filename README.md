@@ -1,4 +1,6 @@
-# Extract locations from text and Map
+# locations2map
+
+Extract Geographical Locations and Automatically links them to open maps.
 
 ![content2map](https://github.com/thinkphp/content2map/blob/master/Screenshot%20from%202025-02-07%2011-42-12.png?raw=true)
 
